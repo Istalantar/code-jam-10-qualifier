@@ -1,3 +1,5 @@
+![Lint](https://github.com/Istalantar/code-jam-10-qualifier/actions/workflows/lint.yml/badge.svg)
+
 # Code Jam 2023: Qualifier
 
 To qualify for the upcoming Code Jam, you'll have to complete a qualifier assignment. The goal is to make sure you have enough Python knowledge to effectively contribute to a team.
