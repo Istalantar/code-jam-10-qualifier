@@ -1,6 +1,6 @@
-from dataclasses import dataclass
 import unittest
 import unittest.mock
+from dataclasses import dataclass
 
 import numpy as np
 from PIL import Image
